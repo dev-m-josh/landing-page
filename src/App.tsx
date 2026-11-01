@@ -4,6 +4,9 @@ import Philosophy from "./components/Philosophy";
 import FeaturedCollection from "./components/FeaturedCollection";
 import Transformation from "./components/Transformation";
 import Makers from "./components/Makers";
+import Materials from "./components/Materials";
+import HowItWorks from "./components/HowItWorks";
+import Footer from "./components/Footer";
 
 function App() {
     return (
@@ -14,6 +17,9 @@ function App() {
             <FeaturedCollection />
             <Transformation />
             <Makers />
+            <Materials />
+            <HowItWorks />
+            <Footer />
         </main>
     );
 }
