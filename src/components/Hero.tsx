@@ -48,8 +48,8 @@ export default function Hero() {
             <div className="relative mt-4 lg:mt-0">
                 <div className="h-[420px] overflow-hidden sm:h-[520px] lg:h-[600px]">
                     <img
-                        src="https://images.unsplash.com/photo-1499933374294-4584851497cc?w=1200&q=85"
-                        alt="Creative studio and thoughtfully designed furniture"
+                        src="/public/images/remake-stool.png.png"
+                        alt="Sculptural reclaimed timber chair"
                         className="h-full w-full object-cover transition-transform duration-700 hover:scale-105"
                     />
                 </div>
