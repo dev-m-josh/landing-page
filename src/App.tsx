@@ -1,6 +1,7 @@
 import Navbar from "./components/layout/Navbar";
 import Hero from "./components/Hero";
 import Philosophy from "./components/Philosophy";
+import FeaturedCollection from "./components/FeaturedCollection";
 
 function App() {
     return (
@@ -8,6 +9,7 @@ function App() {
             <Navbar />
             <Hero />
             <Philosophy />
+            <FeaturedCollection />
         </main>
     );
 }
